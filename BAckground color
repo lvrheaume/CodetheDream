@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        HTML body Bgcolor Attribute
+    </title>
+</head>
+
+<!-- body tag starts here -->
+
+<body text="white" bgcolor="indigo">
+    <center>
+        <h1>GeeksforGeeks</h1>
+        <h2>
+            HTML
+
+            <body> bgcolor Attribute
+        </h2>
+
+        <p>
+           I'm baby try-hard lyft bespoke four loko, +1 trust fund hot chicken 90's. Kitsch lumbersexual meh actually semiotics scenester. Raclette health goth ennui godard try-hard, copper mug green juice farm-to-table lyft chia meh vibecession kickstarter before they sold out grailed. Listicle vice biodiesel asymmetrical selvage. Listicle polaroid mlkshk humblebrag keytar flexitarian vegan praxis franzen yr tousled VHS literally kale chips viral. Cornhole gastropub yr drinking vinegar, paleo artisan tote bag sriracha. Mixtape iceland stumptown, next level master cleanse viral craft beer chartreuse forage.
+
+Fanny pack freegan copper mug chillwave poutine tbh quinoa DIY blue bottle. Hella bicycle rights hashtag flexitarian tumblr tofu hot chicken, cronut tilde gorpcore yes plz. Chicharrones post-ironic Brooklyn +1, street art fit ascot cold-pressed twee marxism XOXO. Fit street art poutine vegan, tacos YOLO lo-fi chambray roof party post-ironic swag tumeric yuccie raw denim ascot. VHS locavore glossier, banjo actually enamel pin yes plz whatever ethical offal palo santo quinoa vice hammock authentic.
+
+Taxidermy hoodie put a bird on it, selfies synth hella jawn mukbang
+        </p>
+
+
+
+    </center>
+</body>
+<!-- body tag ends here -->
+
+</html>
