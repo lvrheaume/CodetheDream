@@ -1,1 +1,15 @@
 \\ HTML Index page\\
+
+<!DOCTYPE html> 
+<html> 
+
+<head> 
+	<title> leanne rheaume Code the Dream Submission</title> 
+</head> 
+
+<body> 
+	<h2>Welcome To Cats API - where we get a random cat on command!</h2> 
+	<p>Hello World! I Don't Give a Bug </p> 
+</body> 
+
+</html>
