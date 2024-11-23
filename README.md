@@ -1,7 +1,7 @@
 # CodetheDream
 Code the Dream Programming Test and Assignment
 
-This project contains a fully functioning website which calls the API {link} and displays the information within a fully custom, optimized layout. 
+This project contains a fully functioning website which calls <a href ="https://thecatapi.com/"> The Cat API </a> and displays the information within a fully custom, optimized layout. 
 It should function on mobile and web browsers and all links should work. If there are errors discovered, please raise an issue and I will look into the root cause. 
 Thank you! 
 
